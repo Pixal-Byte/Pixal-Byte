@@ -12,4 +12,3 @@ I’m a beginner **game developer** passionate about creating engaging and innov
 
 ### Open Projects:
 - **[Space Shooter Game](#)** - A space-themed shooter in Unity.
-- **[Game Dev Portfolio](#)** - A collection of smaller game projects.
