@@ -2,7 +2,8 @@
 
 I’m a beginner **game developer** who is trying to build games that mean something...
 
-### Languages I know(at a beginner level):
+### Languages I know,
+(at a beginner level):
 - **C#**
 - **C++**
 
