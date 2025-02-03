@@ -1,6 +1,6 @@
 # Hi, I'm Pixal Byte 👋
 
-I’m a beginner **game developer** who is trying to build games that are different than other games.
+I’m a beginner **game developer** who is trying to build games that mean something...
 
 ### Languages I know:
 - **C#**
@@ -11,4 +11,4 @@ I’m a beginner **game developer** who is trying to build games that are differ
 - Email: [dev.pixalbyt3@gmail.com](mailto:dev.pixalbyt3@gmail.com)
 
 ### Open Projects:
-- **[Paws-in-Space](#)** - A space-themed shooter in GoDot. 
+- **[Paws-in-Space](#)** - A cat-themed space shooter in GoDot. 
