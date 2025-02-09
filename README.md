@@ -15,4 +15,4 @@ I’m a beginner **game developer** who is trying to build games that mean somet
 - Email: [dev.pixalbyt3@gmail.com](mailto:dev.pixalbyt3@gmail.com)
 
 ### Open Projects:
-- **[Paws-in-Space - NO RELEASES YET.](#)** - A cat-themed space shooter in GoDot. 
+- **[Paws-in-Space](https://github.com/Pixal-Byte/paws-in-space)** - A cat-themed space shooter in GoDot. 
