@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello Visitor I am Pixal Byte</h1>
+<h1 align="center">👋 Hello, I am Pixal Byte</h1>
 <h3 align="center">I mostly work on frontend stuff, but I also love making games</h3>
 
 - I am currently working on a game called [Paws in Space](github.com/Pixal-Byte/Paws-in-Space)
