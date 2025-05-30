@@ -3,7 +3,7 @@
 
 - I am currently working on a game called [Paws in Space](https://github.com/Pixal-Byte/paws-in-space)
 
-- 🌱 I’m currently learning **More about Frontend Development, Linux, GoDot and Game development**
+- 🌱 I’m currently learning **Mod development for minecraft and Java**
 
 - 📫 How to reach me **dev.pixalbyt3@gmail.com**
 
