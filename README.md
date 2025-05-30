@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hello, I am Pixal Byte</h1>
 <h3 align="center">I mostly work on frontend stuff, but I also love making games</h3>
 
-- I am currently working on a game called [Paws in Space](https://github.com/Pixal-Byte/paws-in-space)
-
 - 🌱 I’m currently learning **Mod development for minecraft and Java**
 
 - 📫 How to reach me **dev.pixalbyt3@gmail.com**
