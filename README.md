@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I am Pixal Byte</h1>
-<h3 align="center">I mostly work on frontend stuff, but I also love making games</h3>
+<h3 align="center">I mostly work on frontend stuff, but I also love making games or mod them :)</h3>
 
 - 🌱 I’m currently learning **Mod development for minecraft and Java**
 
