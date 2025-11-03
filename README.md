@@ -2,7 +2,7 @@
 
 #### Student • Aspiring Programmer & Photographer
 
-Welcome to my GitHub corner! I'm a curious student who loves to explore the worlds of programming and photography. Whether I'm experimenting with code or capturing moments in raw light and color, I'm always learning something new.
+Welcome to my GitHub corner! I'm a student who loves to explore the worlds of programming and photography. Right now I'm probably experimenting with code or capturing moments in raw light and color, either way I'm always learning something new.
 
 ---
 
@@ -27,7 +27,7 @@ Check it out to see my latest photos and creative experiments.
 - Java & Minecraft Modding *(beginner, but eager to learn!)*
 - Python *(beginner, always experimenting)*
 - Web Development *(HTML/CSS, mostly for my site)*
-- Digital & Analog Photography
+- Digital Photography
 
 ---
 
