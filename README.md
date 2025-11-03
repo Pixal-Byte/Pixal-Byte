@@ -9,7 +9,6 @@ Welcome to my GitHub corner! I'm a curious student who loves to explore the worl
 ## 🚀 About Me
 
 - 📸 **Photographer at heart** – I capture the world as I see it.  
-  **Tagline:** *Raw Light, Raw Color*
 - 💻 **Programming explorer** – I'm a jack of all trades! I’m learning Java, Python, and especially interested in Minecraft mod development.
 - 🏗️ **Builder by curiosity** – I enjoy building and tinkering, both with code and creative projects.
 
