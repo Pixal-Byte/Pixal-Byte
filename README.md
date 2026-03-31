@@ -35,7 +35,6 @@ Welcome to my GitHub corner! I'm a student who loves to explore the worlds of pr
 ## 🌐 Connect With Me
 
 - 📷 [Instagram: @pixal.raw](https://instagram.com/pixal.raw)
-- 🌍 [Photography Portfolio: pixal.ro](https://pixal.ro)
 
 ---
 
