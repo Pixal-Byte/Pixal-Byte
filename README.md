@@ -14,14 +14,6 @@ Welcome to my GitHub corner! I'm a student who loves to explore the worlds of pr
 
 ---
 
-## 🌟 Featured Project
-
-### [pixal.ro](https://pixal.ro)  
-My personal photography portfolio – designed, built, and coded 100% by me!  
-Check it out to see my latest photos and creative experiments.
-
----
-
 ## 🛠️ Skills & Interests
 
 - Java & Minecraft Modding *(beginner, but eager to learn!)*
