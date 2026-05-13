@@ -32,12 +32,6 @@ Welcome to my GitHub corner! I'm a student who loves to explore the worlds of pr
 
 ---
 
-## 🌐 Connect With Me
-
-- 📷 [Instagram: @pixal.raw](https://instagram.com/pixal.raw)
-
----
-
 > **"Raw Light, Raw Color"**  
 > _– My creative philosophy in photography_
 
