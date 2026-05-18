@@ -11,6 +11,3 @@ I like cookie and skill trees
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=Pixal-Byte&icon=1&color=6)](https://visitcount.itsvg.in)
