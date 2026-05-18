@@ -1,36 +1,16 @@
-# 👋 Hi, I'm Pixal-Byte!
+# 💫 About Me:
+I like cookie and skill trees
 
-#### Student • Aspiring Programmer & Photographer
 
-Welcome to my GitHub corner! I'm a student who loves to explore the worlds of programming and photography. Right now I'm probably experimenting with code or capturing moments in raw light and color, either way I'm always learning something new.
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Pixal-Byte&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Pixal-Byte&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pixal-Byte&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
-
-## 🚀 About Me
-
-- 📸 **Photographer at heart** – I capture the world as I see it.  
-- 💻 **Programming explorer** – I'm a jack of all trades! I’m learning Java, Python, and especially interested in Minecraft mod development.
-- 🏗️ **Builder by curiosity** – I enjoy building and tinkering, both with code and creative projects.
-
----
-
-## 🛠️ Skills & Interests
-
-- Java & Minecraft Modding *(beginner, but eager to learn!)*
-- Python *(beginner, always experimenting)*
-- Web Development *(HTML/CSS, mostly for my site)*
-- Digital Photography
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-## 📚 Current Goals
-
-- Master the basics (and then the magic) of Java
-- Create my own Minecraft mods
-- Level up my Python projects
-- Capture unique moments through my lens
-
----
-
-Thanks for visiting!  
-Feel free to check out my repos, follow my journey, or reach out if you want to collaborate or chat about coding, modding, or photography.
+[![](https://komarev.com/ghpvc/?username=Pixal-Byte&icon=1&color=6)](https://visitcount.itsvg.in)
