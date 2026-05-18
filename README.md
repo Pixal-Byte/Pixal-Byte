@@ -32,10 +32,5 @@ Welcome to my GitHub corner! I'm a student who loves to explore the worlds of pr
 
 ---
 
-> **"Raw Light, Raw Color"**  
-> _– My creative philosophy in photography_
-
----
-
 Thanks for visiting!  
 Feel free to check out my repos, follow my journey, or reach out if you want to collaborate or chat about coding, modding, or photography.
