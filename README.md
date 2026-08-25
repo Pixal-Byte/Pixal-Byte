@@ -1,5 +1,5 @@
 # 💫 About Me:
-I like cookie and skill trees
+Look around... What do you see? Cherish that, for the rest of your life. You never know when it will be taken from you
 
 
 # 💻 Tech Stack:
