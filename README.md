@@ -9,6 +9,7 @@ I've been on github for more than I've used it, learned bits and pieces of thing
 *   🌍  I'm based in Bucharest, Romania
 *   ✉️  You can contact me at [astrobyte@pixal.ro](mailto:astrobyte@pixal.ro)
 *   🧠  I'm currently learning docker, dockerfiles, python requests and more about how the internet works
+*   💡  Currently Working on [ASCII Tables](github.com/Pixal-Byte/ascii-tables)
 *   👥  I'm looking to collaborate on honestly anything.
 *   💬  "I honestly think that we take to much for granted."
 <p align="left">
