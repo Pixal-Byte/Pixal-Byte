@@ -5,10 +5,10 @@ Tech enthusiast and world tinkerer
 
 I've been on GitHub for more than I've used it, learned bits and pieces of things like Minecraft mod development and C++ (both of which I almost completely forgot). But now I am looking in learning python at a much deeper level than the other two.
 
-*   🌍  I'm based in Bucharest, Romania
-*   ✉️  You can contact me through my [config github repo](github.com/Pixal-Byte/Pixal-Byte)'s Issue Tracker, or alternatively @[astrobyte@pixal.ro](mailto:astrobyte@pixal.ro)
-*   🧠  I'm currently learning Docker, Dockerfiles, python requests and more about how the internet works
-*   💡  Currently Working on [ASCII Arcade](github.com/Pixal-Byte/ascii-arcade)
+*   🌍  I'm based in Bucharest, Romania`
+*   ✉️  You can contact me through my [config github repo](https://github.com/Pixal-Byte/Pixal-Byte/issues)'s Issue Tracker, or alternatively @[astrobyte@pixal.ro](mailto:astrobyte@pixal.ro)
+*   🧠  I'm currently learning Docker, Dockerfiles, python `requests and more about how the internet works
+*   💡  Currently Working on [ASCII Arcade](https://github.com/Pixal-Byte/ascii-arcade)
 *   👥  I'm looking to collaborate on honestly anything.
 *   💬  "I honestly think that we take to much for granted."
 <p align="left">
