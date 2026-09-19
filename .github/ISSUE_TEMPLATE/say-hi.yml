@@ -1,0 +1,22 @@
+name: 👋 Say hi / Guestbook
+description: Just leave a note, feedback, or say hello
+title: "[Hi] "
+labels: ["guestbook"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for stopping by my profile! Leave a message below.
+  - type: textarea
+    id: message
+    attributes:
+      label: Your message
+      placeholder: Say whatever you'd like!
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Where can I reach you back? (optional)
+      placeholder: email, another GitHub, etc.
+    validations:
+      required: false

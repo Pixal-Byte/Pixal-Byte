@@ -1,0 +1,22 @@
+name: 💬 Ask about a project
+description: Question or collab idea about one of my projects
+title: "[Project] "
+labels: ["question"]
+body:
+  - type: dropdown
+    id: project
+    attributes:
+      label: Which project?
+      options:
+        - homelabbing
+        - ASCII Arcade
+        - Film photography kit
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What's up?
+    validations:
+      required: true
