@@ -1,6 +1,6 @@
 Hi 👋 My name is Nova
 =============================================================================================================================
-Tech enthusiast and world tinkerer
+🏳️‍⚧️ Tech enthusiast and world tinkerer
 ------------------------------------
 
 I've been on GitHub for more than I've used it, learned bits and pieces of things like Minecraft mod development and C++ (both of which I almost completely forgot). But now I am looking in learning python at a much deeper level than the other two.
