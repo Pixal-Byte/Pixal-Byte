@@ -1,16 +1,16 @@
 Hi 👋 My name is Nova
 =============================================================================================================================
-🏳️‍⚧️ Tech enthusiast and world tinkerer
+🏳️‍⚧️ Cybersec Specialist
 ------------------------------------
 
-I've been on GitHub for more than I've used it, learned bits and pieces of things like Minecraft mod development and C++ (both of which I almost completely forgot). But now I am looking in learning python at a much deeper level than the other two.
+I've been on GitHub for more than I've used it, learned bits and pieces of things like Minecraft mod development and C++ (both of which I almost completely forgot). Now I am most familiar with pyhon.
 
-*   🌍  I'm based in Bucharest, Romania`
-*   ✉️  You can contact me through my [config github repo](https://github.com/Pixal-Byte/Pixal-Byte/issues)'s Issue Tracker, or alternatively @[astrobyte@pixal.ro](mailto:astrobyte@pixal.ro)
-*   🧠  I'm currently learning Docker, Dockerfiles, python `requests and more about how the internet works
-*   💡  Currently Working on [ASCII Arcade](https://github.com/Pixal-Byte/ascii-arcade)
-*   👥  I'm looking to collaborate on honestly anything.
-*   💬  "I honestly think that we take to much for granted."
+*   🌍  I'm based in Bucharest, Romania.
+*   ✉️  You can contact me through my [config github repo](https://github.com/Pixal-Byte/Pixal-Byte/issues)'s Issue Tracker.
+*   🧠  I'm currently learning Docker, Dockerfiles, cybersecurity, bash and more about how the internet works.
+*   💡  Currently Working on myself.
+*   👥  I'm looking to collaborate on anything I have experience with
+*   💬  "Each skill takes growth, time and patience."
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
 </p>
@@ -19,3 +19,7 @@ I've been on GitHub for more than I've used it, learned bits and pieces of thing
 ### Socials
                 
 <p align="left"> <a href="https://www.github.com/Pixal-Byte" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+
+<img src="/assets/gray0_ctp_on_line.svg" width="100%" alt="Cat sitting on the Footer bar" />
+
+<sub>Insert cool footnote [here](https://pixal.ro)</sub>
