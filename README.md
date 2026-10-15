@@ -21,5 +21,6 @@ I've been on GitHub for more than I've used it, learned bits and pieces of thing
 <p align="left"> <a href="https://www.github.com/Pixal-Byte" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 
 <img src="/assets/gray0_ctp_on_line.svg" width="100%" alt="Cat sitting on the Footer bar" />
-
-<sub>Insert cool footnote [here](https://pixal.ro)</sub>
+<p align="center">
+    <sub>Insert cool footnote <a href="https://pixal.ro">here</a></sub>
+</p>
