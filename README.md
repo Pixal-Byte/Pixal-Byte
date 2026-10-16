@@ -3,7 +3,7 @@ Hi 👋 My name is Nova
 🏳️‍⚧️ Cybersec Specialist
 ------------------------------------
 
-I've been on GitHub for more than I've used it, learned bits and pieces of things like Minecraft mod development and C++ (both of which I almost completely forgot). Now I am most familiar with pyhon.
+I've been on GitHub for more than I've used it, learned bits and pieces of things like Minecraft mod development and C++ (both of which I almost completely forgot). Now I am most familiar with pyhon. [Oh](https://pixal.ro), and a huge F.O.S.S. advocate
 
 *   🌍  I'm based in Bucharest, Romania.
 *   ✉️  You can contact me through my [config github repo](https://github.com/Pixal-Byte/Pixal-Byte/issues)'s Issue Tracker.
@@ -20,10 +20,9 @@ I've been on GitHub for more than I've used it, learned bits and pieces of thing
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
 
 ### Socials
+##### If u can find them ;)
+----
 
 ![Bluesky](https://img.shields.io/badge/Bluesky-%230285FF.svg?style=for-the-badge&logo=Bluesky&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<img src="/assets/gray0_ctp_on_line.svg" width="100%" alt="Cat sitting on the Footer bar" />
-<p align="center">
-    <sub>Insert cool footnote <a href="https://pixal.ro">here</a></sub>
-</p>
+![Cat on footer bar](/assets/gray0_ctp_on_line.svg)
