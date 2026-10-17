@@ -21,8 +21,6 @@ I've been on GitHub for more than I've used it, learned bits and pieces of thing
 
 ### Socials
 ##### If u can find them ;)
-----
-
 ![Bluesky](https://img.shields.io/badge/Bluesky-%230285FF.svg?style=for-the-badge&logo=Bluesky&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![Cat on footer bar](/assets/gray0_ctp_on_line.svg)
