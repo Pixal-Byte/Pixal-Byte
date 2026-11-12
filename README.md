@@ -1,9 +1,9 @@
 Hi 👋 My name is Nova
 =============================================================================================================================
-🏳️‍⚧️ Cybersec Specialist
+🏳️‍⚧️ Chaos Specialist
 ------------------------------------
 
-I've been on GitHub for more than I've used it, learned bits and pieces of things like Minecraft mod development and C++ (both of which I almost completely forgot). Now I am most familiar with pyhon. [Oh](https://pixal.ro), and a huge F.O.S.S. advocate
+ [Oh](https://pixal.ro), we're doing this again. uhhh, Idk give the computer snake food and it gains a conscience, also the penguin is hungry
 
 *   🌍  I'm based in Bucharest, Romania.
 *   ✉️  You can contact me through my [config github repo](https://github.com/Pixal-Byte/Pixal-Byte/issues)'s Issue Tracker.
