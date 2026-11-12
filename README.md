@@ -5,12 +5,11 @@ Hi 👋 My name is Nova
 
  [Oh](https://pixal.ro), we're doing this again. uhhh, Idk give the computer snake food and it gains a conscience, also the penguin is hungry
 
-*   🌍  I'm based in Bucharest, Romania.
-*   ✉️  You can contact me through my [config github repo](https://github.com/Pixal-Byte/Pixal-Byte/issues)'s Issue Tracker.
-*   🧠  I'm currently learning Docker, Dockerfiles, cybersecurity, bash and more about how the internet works.
-*   💡  Currently Working on myself.
-*   👥  I'm looking to collaborate on anything I have experience with
-*   💬  "Each skill takes growth, time and patience."
+*   🌍  Spawnpoint: Eastern Europe
+*   ✉️  Get in touch with my through [config github repo](https://github.com/Pixal-Byte/Pixal-Byte/issues)'s Issue Tracker.
+*   🧠  Manually Scraping info about Bash and Python
+*   💡  Working with myself
+*   💬  "Each skill takes growth, time and patience." -Me probably
 
 ## Stuff I use
 ![Firefox](https://img.shields.io/badge/Firefox-%23FF7139.svg?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303.svg?style=for-the-badge&logo=LibreOffice&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-%23FFFFFF.svg?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
