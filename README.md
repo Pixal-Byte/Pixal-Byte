@@ -1,14 +1,28 @@
-Hi 👋 My name is Nova
-=============================================================================================================================
 🏳️‍⚧️ Chaos Specialist
-------------------------------------
+===================================
+#### Hii, uhmmm $_{(am\ not\ good\ with\ introductions)}$. 
 
- [Oh](https://pixal.ro), we're doing this again. uhhh, Idk give the computer snake food and it gains a conscience, also the penguin is hungry
+Well I'm Nova, I like to call myself a `chaos specialist` cause it's sounds cooler than `ADHD x unstoppable curiosity`-fueled nerd, and have been described by people through a multiverse of words. 
 
+## Stuff about me
+* I don't talk much, moslty if prompted $_{(Very\ NPC\ behaviour\ if\ u\ ask\ me.)}$
+* Probably ambiverted $_{(not\ confirmed).}$
+* Aries 🔥
+* Part-time Photographer 📷
+* Dandere-coded 
+* Science nerd
+
+### Last note
+Anyway, uhh cool of u to checkout my profile! 
+Though I think u either stumbled apon this profile idk how, or I already met u IRL. either way, nice meeting u! 
+
+## Character sheet 🌠
+
+*   💽  webpage: [pixal.ro](https://pixal.ro)
 *   🌍  Spawnpoint: Eastern Europe
-*   ✉️  Get in touch with my through [config github repo](https://github.com/Pixal-Byte/Pixal-Byte/issues)'s Issue Tracker.
-*   🧠  Manually Scraping info about Bash and Python
-*   💡  Working with myself
+*   ✉️  Get in touch with my through config github repo's [issue tracker](https://github.com/Pixal-Byte/Pixal-Byte/issues).
+*   🧠  Learning Bash and Python
+*   💡  Working on my webpage
 *   💬  "Each skill takes growth, time and patience." -Me probably
 
 ## Stuff I use
@@ -19,9 +33,5 @@ Hi 👋 My name is Nova
 
 ## Stuff I run
 ![Next Cloud](https://img.shields.io/badge/Next%20Cloud-%230B94DE.svg?style=for-the-badge&logo=nextcloud&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)
-
-### Socials
-###### If u can find them ;)
-![Bluesky](https://img.shields.io/badge/Bluesky-%230285FF.svg?style=for-the-badge&logo=Bluesky&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![Cat on footer bar](/assets/gray0_ctp_on_line.svg)
